@@ -137,7 +137,7 @@ export default function LoginPage() {
                             to="/register"
                             className="text-sm font-bold text-primary-600 hover:text-primary-700 hover:underline transition-all"
                         >
-                            Create a new student or lecturer account
+                            Create a new account
                         </Link>
                     </div>
 
